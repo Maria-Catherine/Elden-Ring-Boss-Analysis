@@ -309,7 +309,7 @@ groups and found compelling differences. I made sure the scales were the
 same across the absorption categories, to prevent visual distortion of
 the results.
 
-![](.\Dark%20Background%20Data%20Viz\Elemental%20Damage.png) The biggest
+![](https://github.com/Maria-Catherine/Elden-Ring-Boss-Analysis/blob/main/Elemental Damage.png?raw=true) The biggest
 difference between the groups is Lightening and Holy, differing by 14
 and 15 respectively. The bosses that were completed least had a higher
 average absorption in all elemental damage types.
