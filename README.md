@@ -1,6 +1,6 @@
 ## Background
 
-This is personal project I wanted to undergo after completing my Google
+This is a personal project I wanted to undergo after completing my Google
 Data Analytics Certificate. I am a recent FromSoftware fan and was
 curious about what percentage of Elden Ring players complete certain
 bosses. Then, if there was any pattern found between completed bosses
@@ -361,3 +361,6 @@ unfold for myself. I plan on doing a similar project with Dark Souls 3,
 a more linear FromSoftware game.
 
 #### Thank you for reading!
+
+
+![Tableau Visualizations](https://public.tableau.com/app/profile/maria.catherine4989/viz/Elden_Ring_Analysis_Final/)
