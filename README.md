@@ -363,4 +363,4 @@ a more linear FromSoftware game.
 #### Thank you for reading!
 
 
-[Tableau Visualizations](https://public.tableau.com/app/profile/maria.catherine4989/viz/Elden_Ring_Analysis_Final/)
+[Tableau Visualizations](https://public.tableau.com/app/profile/maria.catherine4989/viz/Elden_Ring_Analysis_Final/BossCompletionofEldenRingOwnersonSteam)
