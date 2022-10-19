@@ -361,4 +361,3 @@ unfold for myself. I plan on doing a similar project with Dark Souls 3,
 a more linear FromSoftware game.
 
 #### Thank you for reading!
-
