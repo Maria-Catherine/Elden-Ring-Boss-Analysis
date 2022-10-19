@@ -269,7 +269,7 @@ unique.head()
 
 ## Data Cleaning with Excel
 
-![](https://github.com/Maria-Catherine/Elden-Ring-Boss-Analysis/blob/main/Visualizations/Table3.png?raw=true)
+![](https://github.com/Maria-Catherine/Elden-Ring-Boss-Analysis/blob/main/Visualizations/Table4.png?raw=true)
 
 ## Preparing for Analysis with Tableau
 
