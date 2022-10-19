@@ -269,7 +269,7 @@ unique.head()
 
 ## Data Cleaning with Excel
 
-![](Table3.png)
+![](https://github.com/Maria-Catherine/Elden-Ring-Boss-Analysis/blob/main/Visualizations/Table3.png?raw=true)
 
 ## Preparing for Analysis with Tableau
 
@@ -279,7 +279,7 @@ game, it was unsurprising that bosses that are optional and/or hard to
 find like the Lichdragon Fortissax, Shardbearer Malenia, and Mohg the
 Fell Omen were the least completed.
 
-![](.\Dark%20Background%20Data%20Viz\Boss%20Completion%20of%20Elden%20Ring%20Owners%20on%20Steam.png)
+![](https://github.com/Maria-Catherine/Elden-Ring-Boss-Analysis/blob/main/Visualizations/Boss%20Completion%20of%20Elden%20Ring%20Owners%20on%20Steam.png?raw=true)
 
 The following are the overviews of the absorption and resistance numbers
 side by side with the completion percentages to search for initial
@@ -289,14 +289,14 @@ visualizations. Those bosses had several immune values that I translated
 to “9999” in my data, so I removed them to avoid skewing the averages
 Their data was included in the Physical Damage absorption analysis:
 
-![](.\Dark%20Background%20Data%20Viz\Elemental%20Damage%20&%20Boss%20Completion.png)
+![](https://github.com/Maria-Catherine/Elden-Ring-Boss-Analysis/blob/main/Visualizations/Elemental%20Damage%20%26%20Boss%20Completion.png?raw=true)
 
-![](.\Dark%20Background%20Data%20Viz\Status%20Effects%20&%20Boss%20Completion.png)
+![](https://github.com/Maria-Catherine/Elden-Ring-Boss-Analysis/blob/main/Visualizations/Status%20Effects%20%26%20Boss%20Completion.png?raw=true)
 *Madness and Sleep were omitted as the value was either immune or blank;
 This made it an uncommon binary effect. Death was included as it was the
 most common binary status effect.*
 
-![](.\Dark%20Background%20Data%20Viz\Physical%20Attacks%20&%20Boss%20Completion.png)
+![](https://github.com/Maria-Catherine/Elden-Ring-Boss-Analysis/blob/main/Visualizations/Physical%20Attacks%20%26%20Boss%20Completion.png?raw=true)
 
 A difference could be seen in the amount of high absoprtion and
 resistancce values on the lower completion % group, but I needed to make
@@ -314,12 +314,12 @@ The biggest difference between the groups is Lightening and Holy, differing by 1
 and 15 respectively. The bosses that were completed least had a higher
 average absorption in all elemental damage types.
 
-![](.\Dark%20Background%20Data%20Viz\Status%20Effect.png) The biggest
+![](https://github.com/Maria-Catherine/Elden-Ring-Boss-Analysis/blob/main/Visualizations/Status%20Effect.png?raw=true) The biggest
 difference between the groups is Poison and Scarlet Rot, differing by
 187 and 189 respectively. The bosses that were completed the least had a
 higher average resistance to all status effects
 
-![](.\Dark%20Background%20Data%20Viz\Physical%20Damage.png) Physical
+![](https://github.com/Maria-Catherine/Elden-Ring-Boss-Analysis/blob/main/Visualizations/Physical%20Damage.png?raw=true) Physical
 damage types showed the smallest relative differences. The biggest
 difference is Strike and Standard, differing by 15 and 6 respectively.
 The bosses that were completed the least had increased physical damage
