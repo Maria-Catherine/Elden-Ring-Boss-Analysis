@@ -6,6 +6,8 @@ curious about what percentage of Elden Ring players complete certain
 bosses. Then, if there was any pattern found between completed bosses
 and their stats.
 
+Steam API Data from 10/10/2022
+
 ## Introduction
 
 Elden Ring is an open-world game by FromSoftware and has achievements
