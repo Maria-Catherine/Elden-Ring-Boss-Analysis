@@ -338,7 +338,7 @@ people are known to drop FromSoftware games due to difficulty. So, after
 looking at all this data, I have some general insights and applications
 for my conclusions:
 
-**Build Choice:** Individuals will often pick a certaub toye if damage
+**Build Choice:** Individuals will often pick a certain type of damage
 and weapon they will stick with for a playthrough of a game. One popular
 one is a Bleed Build, which increases the infliction of what is labeled
 Hemorrhage in this project. This can lead people to get frustrated with
