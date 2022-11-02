@@ -343,7 +343,7 @@ and weapon they will stick with for a playthrough of a game. One popular
 one is a Bleed Build, which increases the infliction of what is labeled
 Hemorrhage in this project. This can lead people to get frustrated with
 late-game bosses that are bleed resistant and must be fought based on
-physical damage. This results give an overview of what bosses may be
+physical damage. These results give an overview of what bosses may be
 more difficult if one is doing a certain build, a nice alternative to
 Googling “what’s a good build” or “is Bleed the best build.” I
 personally plan to use this data for my next playthrough of Elden Ring.
