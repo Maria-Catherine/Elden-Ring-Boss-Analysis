@@ -300,8 +300,8 @@ most common binary status effect.*
 
 ![](https://github.com/Maria-Catherine/Elden-Ring-Boss-Analysis/blob/main/Visualizations/Physical%20Attacks%20%26%20Boss%20Completion.png?raw=true)
 
-A difference could be seen in the amount of high absoprtion and
-resistancce values on the lower completion % group, but I needed to make
+A difference could be seen in the amount of high absorption and
+resistance values on the lower completion % group, but I needed to make
 it more visually clear to reach a confident conclusion
 
 ## Data Analysis
