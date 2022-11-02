@@ -33,7 +33,7 @@ Birchard](https://hackersandslackers.com/extract-data-from-complex-json-python/)
 ### Limitations
 
 Since Elden Ring is an open-world game, it can not be determined where a
-player may have “given up” in the story-line. There are a few
+player may have “given up” in the storyline. There are a few
 achievements tied to required events, but those are not explored in this
 particular project.
 
@@ -350,8 +350,8 @@ personally plan to use this data for my next playthrough of Elden Ring.
 
 **Run/Ending Planning:** Similar to choosing a build, some will know
 they want to pursue a certain ending or “completion run” where they
-fight everything. If someone is wanting to pursue a certain characters
-ending or story line, they may need to fight Malenia, fir example, and a
+fight everything. If someone is wanting to pursue a certain character's
+ending or story line, they may need to fight Malenia, for example, and a
 Scarlet Rot focused build may increase the difficulty.
 
 ## Closing
